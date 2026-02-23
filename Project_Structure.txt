@@ -1,0 +1,6 @@
+Agenda:
+======
+1 - set of the github {Repository}
+    a) new environment
+    b) setup.py
+    c) requirements.txt
